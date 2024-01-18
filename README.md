@@ -1,3 +1,3 @@
 # website-project
 
-Ini adalah website sederhana pertama saya 😁☺️
+Ini adalah website sederhana pertama saya ☺️
